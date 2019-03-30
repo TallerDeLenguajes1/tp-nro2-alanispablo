@@ -1,0 +1,6 @@
+f) No aparece porque se crea como una version secundaria o nueva, de mi repositorio donde se pueden aplicar 
+cambios sin modificar al principal. Esto sirve por ejemplo para ingresar nuevas funciones en algun codigo.
+i) Con el comando "gitk --all" se observa las dos versiones de mi repositorio y como se trabaja en cada uno por 
+separado.
+j) Al usar el merge se observa que se juntan las ramificaciones por lo que ya figura el archivo tp2_1_2 y el archivo
+ Respuestas.txt en una unica rama.
